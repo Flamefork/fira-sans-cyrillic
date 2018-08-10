@@ -1,0 +1,10 @@
+{
+  "name": "fira-sans-cyrillic",
+  "version": "1.1.0",
+  "description": "Latin and Cyrillic subsets of Fira Sans font",
+  "main": "index.css",
+  "repository": "github:Flamefork/fira-sans-cyrillic",
+  "keywords": ["font"],
+  "author": "bBox Type GmbH",
+  "license": "OFL-1.1"
+}
